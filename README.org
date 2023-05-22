@@ -1,6 +1,6 @@
 * cl-org-mode
 
-
+A Parser of org-mode outlines
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-org-mode/cl-org-mode.git |
